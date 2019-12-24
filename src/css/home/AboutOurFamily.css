@@ -1,0 +1,14 @@
+.about-our-family {
+  left: 56%;
+  top: 37%;
+  width: 21%;
+  border: 2px solid red;
+}
+
+.phil {
+  left: 60%;
+  top: 42%;
+  width: 5%;
+  border: 2px solid red;
+  pointer-events: none;
+}

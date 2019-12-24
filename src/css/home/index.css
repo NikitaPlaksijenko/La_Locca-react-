@@ -1,0 +1,43 @@
+.home {
+  position: relative;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+}
+
+.home div {
+  position: absolute;
+}
+
+.tooltip>.tooltip-inner {
+  background-color: #b1eb34;
+  color: #191c61;
+  font-size: medium;
+}
+
+.tooltip>.tooltip-arrow {
+  background-color: #b1eb34;
+  /* border-top: 5px solid #b1eb34; */
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.bottle-image {
+  max-width: 150px;
+}
+
+.order-modal {
+  max-width: 800px!important;
+}
+
+.modal-content {
+  max-width: 70vw;
+  margin: auto;
+}
+
+.modal-body {
+  max-height: 70vh;
+  overflow-y: auto;
+}

@@ -1,0 +1,17 @@
+
+.pole-0 {
+  left: 1.6%;
+  top: 60%;
+  width: 4%;
+  bottom: 0%;
+  border: 2px solid red;
+}
+
+.pole-1 {
+  left: 15.5%;
+  top: 60%;
+  width: 3.5%;
+  bottom: 0%;
+  border: 2px solid red;
+  transform: rotate(2deg);
+}
